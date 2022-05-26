@@ -1,6 +1,6 @@
 # Continuação Aula SO2
 
-## Passo a Passo
+## Passo a Passo Máquina Servidor
 
 1. Entrar no Gerenciador do Servidores;
 2. Clicar adicionar funções e recursos;
@@ -28,4 +28,17 @@
         5. Opções Adcionais NTBIOS: Próximo
         6. Caminhos: Manter padrão
         7. Examinar opções: Próximo
-        8. 
+4. Usuarios de computadores do active Directory;
+    1. Users
+    2. Criar usuário e senha
+    3. Senha nunca expira
+    4. Criar um grupo Financeiro
+    5. Adicionar pessoas a um grupo
+    6. C:\ mkdir compartilhada
+    7. Compartilhar pasta com o grupo financeiro
+
+# Passo a passo Máquina Cliente
+
+1. Abrir c\: Painel de Controle\Sistema e Segurança\Sistema
+2. Mudar o nome da máquina
+3. 
