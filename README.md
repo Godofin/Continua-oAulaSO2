@@ -40,5 +40,5 @@
 # Passo a passo Máquina Cliente
 
 1. Abrir c\: Painel de Controle\Sistema e Segurança\Sistema
-2. Mudar o nome da máquina
+2. Mudar o nome da máquina -> Configurações Avançadas de sistema -> Nome computador -> Alterar domínio
 3. 
